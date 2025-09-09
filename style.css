@@ -1,0 +1,67 @@
+
+header{
+
+color: white;
+background-color: rgb(4, 196, 4);
+margin: 0%;
+
+}
+
+#MainTitle{
+ 
+font-size: 25px;
+text-align: center;
+font-family: bebas neue;
+
+
+}
+
+
+#HeaderDois{
+
+    font-size: 17px;
+    font-family: oswald;
+    text-align: center;
+    
+    
+
+    
+
+}
+
+.Subtitulos{
+
+Font-family:oswald ;
+
+}
+
+main{
+     
+    font-family: arial;
+    background-color: white;
+    justify-content: center ;
+    align-items: center;
+    width: 700px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0px auto;
+    
+    
+
+}
+
+
+footer{
+
+    font-family: arial;
+    margin: 0px auto;
+    font-size: 20px;
+    background-color: black;
+    text-align: center;
+    color: white;
+
+}
+
+
+
